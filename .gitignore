@@ -1,0 +1,16 @@
+*.class
+*.hprof
+*.iml
+*.log
+.DS_Store
+.idea*
+.tags
+/.ivy2/
+/.java/
+/.sbt/
+application.conf
+logs/
+target/
+.bloop
+.metals
+.vscode

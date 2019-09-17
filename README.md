@@ -1,0 +1,1 @@
+Code examples from [Functional Structures in Scala](https://www.youtube.com/playlist?list=PLFrwDVdSrYE6dy14XCmUtRAJuhCxuzJp0) by Michael Pilquist.
